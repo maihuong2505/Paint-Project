@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Simple_Paint.Shapes.clsShape">
+    <Position X="2.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AJAAAACQAAQEAEAIAAoCAQAAAAEAAAIAgAAAAQQEEgA=</HashCode>
+      <FileName>Shapes\clsShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsLine">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQEAAAAAAAAAQAAAEAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Shapes\clsLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsEllipse">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\clsEllipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsRectangle">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\clsRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsPolygon">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\clsPolygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsCurve">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\clsCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Form1" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UBgJxMksADEAhNIAAQOMIjWmEABAAmkCMFADhQighBA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Paint.Shapes.clsGroup" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAAAAAACAAAIAAQAAAAAAAAIEAAAAAAACBAA=</HashCode>
+      <FileName>Shapes\clsGroup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
